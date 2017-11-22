@@ -1,0 +1,6 @@
+c:\users\yhoangaleano\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\bin\Debug\BaseDatos.exe.config
+c:\users\yhoangaleano\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\bin\Debug\BaseDatos.exe
+c:\users\yhoangaleano\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\bin\Debug\BaseDatos.pdb
+c:\users\yhoangaleano\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+c:\users\yhoangaleano\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.exe
+c:\users\yhoangaleano\documents\visual studio 2015\Projects\BaseDatos\BaseDatos\obj\Debug\BaseDatos.pdb
